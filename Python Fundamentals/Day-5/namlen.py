@@ -1,3 +1,2 @@
-s = input("Enter a string: ")
-count = s.count('$')
-print("Occurrence of '$' in the string:", count)
+name = input("Enter your name:")
+print(str(len(name)))
